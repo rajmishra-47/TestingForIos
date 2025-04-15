@@ -10,10 +10,8 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+            
+            Text("Hello I am Raj this is a demo to check If code can be pushed from Xcode to GitHub").font(.title).bold()
         }
         .padding()
     }
